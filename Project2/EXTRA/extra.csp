@@ -1,0 +1,94 @@
+aa Q
+ab Q
+ac Q
+ad Q
+ba Q
+bb Q
+bc Q
+bd Q
+ca Q
+cb Q
+cc Q
+cd Q
+da Q
+db Q
+dc Q
+dd Q
+0
+NotEqualConstraint aa ab
+NotEqualConstraint aa ac
+NotEqualConstraint aa ad
+NotEqualConstraint aa ba
+NotEqualConstraint aa ca
+NotEqualConstraint aa da
+NotEqualConstraint aa bb
+NotEqualConstraint aa cc
+NotEqualConstraint aa dd
+NotEqualConstraint ab ac
+NotEqualConstraint ab ad
+NotEqualConstraint ab bb
+NotEqualConstraint ab cb
+NotEqualConstraint ab db
+NotEqualConstraint ab ba
+NotEqualConstraint ab bc
+NotEqualConstraint ab cd
+NotEqualConstraint ac ad
+NotEqualConstraint ac bc
+NotEqualConstraint ac cc
+NotEqualConstraint ac dc
+NotEqualConstraint ac bb
+NotEqualConstraint ac ca
+NotEqualConstraint ac bd
+NotEqualConstraint ad bd
+NotEqualConstraint ad cd
+NotEqualConstraint ad dd
+NotEqualConstraint ad bc
+NotEqualConstraint ad cb
+NotEqualConstraint ad da
+NotEqualConstraint ba bb
+NotEqualConstraint ba bc
+NotEqualConstraint ba bd
+NotEqualConstraint ba ca
+NotEqualConstraint ba da
+NotEqualConstraint ba cb
+NotEqualConstraint ba dc
+NotEqualConstraint bb bc
+NotEqualConstraint bb bd
+NotEqualConstraint bb cb
+NotEqualConstraint bb db
+NotEqualConstraint bb cc
+NotEqualConstraint bb dd
+NotEqualConstraint bb ca
+NotEqualConstraint bc bd
+NotEqualConstraint bc cc
+NotEqualConstraint bc dc
+NotEqualConstraint bc cb
+NotEqualConstraint bc da
+NotEqualConstraint bc cd
+NotEqualConstraint bd cd
+NotEqualConstraint bd dd
+NotEqualConstraint bd cc
+NotEqualConstraint bd db
+NotEqualConstraint ca cb
+NotEqualConstraint ca cc
+NotEqualConstraint ca cd
+NotEqualConstraint ca da
+NotEqualConstraint ca db
+NotEqualConstraint cb cc
+NotEqualConstraint cb cd
+NotEqualConstraint cb db
+NotEqualConstraint cb da
+NotEqualConstraint cb dc
+NotEqualConstraint cc cd
+NotEqualConstraint cc dc
+NotEqualConstraint cc db
+NotEqualConstraint cc dd
+NotEqualConstraint cd dd
+NotEqualConstraint cd dc
+NotEqualConstraint da db
+NotEqualConstraint da dc
+NotEqualConstraint da dd
+NotEqualConstraint db dc
+NotEqualConstraint db dd
+NotEqualConstraint dc dd
+0

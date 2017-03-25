@@ -1,0 +1,5 @@
+correct = {'aa' = None, 'ab' = 'Q', 'ac' = None, 'ad' = None,
+           'ba' = None, 'bb' = None, 'bc' = None, 'bd' = 'Q',
+           'ca' = 'Q', 'cb' = None, 'cc' = None, 'cd' = None,
+           'da' = None, 'db' = None, 'dc' = 'Q', 'dd' = None,}
+success = result == correct
